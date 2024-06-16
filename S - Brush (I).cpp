@@ -14,7 +14,10 @@ for(int i=1;i<=n;i++){
 sum=0;
     while(a--){
       cin>>b;
+      if(b>0){
         sum+=b;
+      }
+        
 
     }
 
