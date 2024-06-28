@@ -14,10 +14,10 @@ for(int i=1;i<=n;i++){
 
     if(a*a==(b*b)+(c*c) || b*b==(a*a)+(c*c) || c*c==(a*a)+(b*b))
     {
-        cout<<"Case "<<i<<":"<<"yes"<<endl;
+        cout<<"Case "<<i<<":"<<" yes"<<endl;
     }
     else{
-                cout<<"Case "<<i<<":"<<"no"<<endl;
+                cout<<"Case "<<i<<":"<<" no"<<endl;
 
     }
 
