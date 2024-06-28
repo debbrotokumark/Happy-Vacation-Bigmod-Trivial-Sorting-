@@ -10,8 +10,7 @@ int fib(int n){
 int main() {
 
 int n;
-
-n=9;
+cin>>n;
 
 cout<<fib(n)<<endl;
 
